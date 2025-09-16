@@ -1,6 +1,14 @@
 sources:
+  # --- Западные ---
   - https://variety.com/feed/
   - https://www.hollywoodreporter.com/feed/
   - https://deadline.com/feed/
   - https://www.indiewire.com/feed/
   - https://www.empireonline.com/rss/all.xml
+
+  # --- Русские ---
+  - https://lenta.ru/rss/news/culture/kino/        # Лента.ру (раздел Кино)
+  - https://ria.ru/export/rss2/culture/index.xml   # РИА Новости (Культура/Кино)
+  - https://rg.ru/xml/index.xml                    # Российская газета (все новости, бот сам отфильтрует по времени)
+  - https://www.interfax.ru/rss.asp                # Интерфакс (новости, включая культуру и кино)
+  - https://www.kino-teatr.ru/news.rss             # Кино-Театр.ру (новости кино и ТВ)
