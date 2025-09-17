@@ -1,5 +1,6 @@
-feedparser
 requests
-pyyaml
+feedparser
 beautifulsoup4
+pyyaml
+python-dotenv
 openai
