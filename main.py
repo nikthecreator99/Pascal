@@ -7,11 +7,9 @@ import requests
 import feedparser
 import yaml
 from bs4 import BeautifulSoup
-from dotenv import load_dotenv
 from openai import OpenAI
 
 # ---------- Config ----------
-load_dotenv()
 
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
 TELEGRAM_CHANNEL_ID = os.getenv("TELEGRAM_CHANNEL_ID", "").strip()
