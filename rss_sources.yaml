@@ -1,45 +1,8 @@
 sources:
-  # === Международные кино-новости ===
-  - https://variety.com/feed/
-  - https://www.hollywoodreporter.com/feed/
-  - https://deadline.com/feed/
-  - https://www.indiewire.com/feed/
-  - https://www.empireonline.com/rss/all.xml
-  - https://www.firstshowing.net/feed/
-  - https://collider.com/feed/
-  - https://screenrant.com/feed/
-  - https://www.slashfilm.com/feed/
-  - https://www.avclub.com/rss
-  - https://movieweb.com/rss/all/
-  - https://www.cinemablend.com/rss.xml
-  - https://wegotthiscovered.com/feed/
-  - https://www.joblo.com/feed/
-  - https://www.filmjabber.com/rss-movie-feeds/
-  - https://theplaylist.net/feed/
-  - https://www.fandango.com/rss/moviefeed
-  - https://www.comingsoon.net/feed
-  - https://screenanarchy.com/atom.xml
-  - https://www.rogerebert.com/feed
-  - https://screenrant.com/movie-news/feed/
-  - https://www.boxofficemojo.com/data/rss/news.xml
-
-  # === Русские и русскоязычные источники ===
-  - https://www.kino-teatr.ru/news.rss
-  - https://all-rss.ru/cat-102-kino/feed-15-kinopoisk-novosti/
-  - https://subscribe.ru/catalog/culture/kino?rss=
-  - https://rg.ru/tema/kultura/kino/rss.xml
-  - https://www.film.ru/rss/all
-  - https://www.anews.com/rss/category/kino/
-  - https://www.interfax.ru/rss/kino
-  - https://www.gazeta.ru/export/rss/kino.xml
-
-  # === Фестивали и награды ===
-  - https://www.oscars.org/news/rss
-  - https://www.bafta.org/media-centre/rss
-  - https://www.canneslions.com/rss
+  # === Основные новости кино ===
   - https://www.sundance.org/rss
-  - https://www.locarnofestival.ch/rss
-  - https://www.berlinale.de/en/press/press-releases/news-rss.xml
+  # - https://www.locarnofestival.ch/rss            # 404
+  # - https://www.berlinale.de/en/press/press-releases/news-rss.xml   # 404
 
   # === Дополнительные блоги и порталы ===
   - https://rss.nytimes.com/services/xml/rss/nyt/Movies.xml
